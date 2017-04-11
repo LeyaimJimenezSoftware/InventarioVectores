@@ -1,0 +1,24 @@
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\bin\Debug\DatosInventario.exe.config
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\bin\Debug\DatosInventario.exe
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\bin\Debug\DatosInventario.pdb
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\obj\Debug\DatosInventario.csprojResolveAssemblyReference.cache
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\obj\Debug\DatosInventario.Form1.resources
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\obj\Debug\DatosInventario.Properties.Resources.resources
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\obj\Debug\DatosInventario.csproj.GenerateResource.Cache
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\obj\Debug\DatosInventario.exe
+c:\users\leyaim\documents\visual studio 2015\Projects\DatosInventario\DatosInventario\obj\Debug\DatosInventario.pdb
+C:\Users\Leyaim\Desktop\Estructura de datos\DatosInventario\DatosInventario\bin\Debug\DatosInventario.exe.config
+C:\Users\Leyaim\Desktop\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.exe
+C:\Users\Leyaim\Desktop\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.pdb
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\bin\Debug\DatosInventario.exe.config
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.exe
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.pdb
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\bin\Debug\DatosInventario.exe
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\bin\Debug\DatosInventario.pdb
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.csprojResolveAssemblyReference.cache
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.Form1.resources
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.Properties.Resources.resources
+E:\Datos\Estructura de datos\DatosInventario\DatosInventario\obj\Debug\DatosInventario.csproj.GenerateResource.Cache
+C:\Users\Leyaim\Source\Repos\InventarioVectores\DatosInventario\bin\Debug\DatosInventario.exe.config
+C:\Users\Leyaim\Source\Repos\InventarioVectores\DatosInventario\obj\Debug\DatosInventario.exe
+C:\Users\Leyaim\Source\Repos\InventarioVectores\DatosInventario\obj\Debug\DatosInventario.pdb
